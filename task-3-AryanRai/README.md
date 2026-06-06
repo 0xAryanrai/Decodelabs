@@ -138,8 +138,8 @@ To add a new category or item, edit the `recommendation_data` dictionary in the 
 
 ## 👤 Author
 
-**Your Name**
-DecodeLabs Internship — Project 3
+**ARYAN RAI**
+DecodeLabs_Internship — Project 3
 
 ---
 
